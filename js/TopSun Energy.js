@@ -48,6 +48,5 @@ function validarCNPJ(cnpj) {
     if (resultado != digitos.charAt(1))
           return false;
            
-    return true;
-    
+    return true;    
 }
